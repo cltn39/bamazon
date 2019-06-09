@@ -24,4 +24,6 @@ VALUES
 ("Gildan Color Short Sleeve T-Shirt", "Clothing", 2, 76),
 ("1TB Microsoft Xbox One X console", "Electronic", 400, 60),
 ("Levi's Sherpa-Lined Hood", "Clothing", 8.40, 33),
-("2-Litter A&W Root Beer", "Grocery", 1.90, 156)
+("2-Litter A&W Root Beer", "Grocery", 1.90, 156);
+
+SELECT * FROM products;
